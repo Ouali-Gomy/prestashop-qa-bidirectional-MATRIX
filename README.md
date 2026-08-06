@@ -1,0 +1,2 @@
+# prestashop-qa-bidirectional-MATRIX
+CONCEPTION DES CAS DE TEST POUR LE SITE PESTASHOP
